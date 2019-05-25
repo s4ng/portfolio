@@ -4,7 +4,6 @@ import Python from './logo/600px-Python-logo-notext.svg.png';
 import react from './logo/react-1.svg';
 import Javascript from './logo/900px-JavaScript-logo.png';
 import Typescript from './logo/ts.png';
-import Android from './logo/android.png';
 import CPP from './logo/cpppp-490x490.png';
 import css from './logo/css.png';
 import github from './logo/github-logo.png';
@@ -48,7 +47,6 @@ const Skils = () => (
     <span className="Skill_Content">
     <div className="Skill_image_container" style={{backgroundImage: `url(${react})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${nodejs})`}}><div className="Skill_label">basic</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Android})`}}><div className="Skill_label">Basic</div></div>
     </span>
 
     <h2 className="Skill_Title">DataBase</h2>
