@@ -1,13 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import Header from './Components/Header';
+import Home from './Components/Home';
+import About from './Components/About';
+import Project from './Components/Project';
+import Contact from './Components/Contact';
+import Skills from './Components/Skils';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+class App extends Component {
+  componentDidMount(){
+   
+  }
+
+  render() {
+    return (
+      <div className="HomepageLayout">
+      <Header />
+       <Home/>
+     <About/>
+     <Skills/>
+     <Project/>
+     <Contact/>
+    
+      </div>
+   
+    );
+  }
 }
 
 export default App;
