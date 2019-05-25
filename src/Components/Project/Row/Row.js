@@ -31,7 +31,7 @@ const Row = () => (
     
      <div className="Box">
       <div className="Box_image">
-      <a href="https://github.com/s4ng/TodoList"> <img src={todo} alt="todo" className="image"></img></a>
+      <a href="https://s4ng.github.io/TodoList"> <img src={todo} alt="todo" className="image"></img></a>
       </div>
       <div className="Box_info">
       <h1 className="Box_title">To do List</h1>
@@ -45,7 +45,7 @@ const Row = () => (
       </ul>
       <ul className="Box_ul">
       <li className="Box_li">
-      <a href="https://s4ng.github.io/TodoList" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
+      <a href="https://github.com/s4ng/TodoList" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
        </li>
       </ul>
             </div>
