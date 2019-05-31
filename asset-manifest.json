@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1bde1f01.chunk.css",
-    "main.js": "/portfolio/static/js/main.80737de4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.80737de4.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.50d1d01e.chunk.css",
+    "main.js": "/portfolio/static/js/main.5ec976dd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5ec976dd.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.1121c6e2.chunk.js": "/portfolio/static/js/2.1121c6e2.chunk.js",
-    "static/js/2.1121c6e2.chunk.js.map": "/portfolio/static/js/2.1121c6e2.chunk.js.map",
+    "static/js/2.64905c2c.chunk.js": "/portfolio/static/js/2.64905c2c.chunk.js",
+    "static/js/2.64905c2c.chunk.js.map": "/portfolio/static/js/2.64905c2c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.347b1a5b30ba6fc8ccf7ec3b4e8eec2b.js": "/portfolio/precache-manifest.347b1a5b30ba6fc8ccf7ec3b4e8eec2b.js",
+    "precache-manifest.94953d07a9f3c797c82c15a7d6d9d656.js": "/portfolio/precache-manifest.94953d07a9f3c797c82c15a7d6d9d656.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.1bde1f01.chunk.css.map": "/portfolio/static/css/main.1bde1f01.chunk.css.map",
+    "static/css/main.50d1d01e.chunk.css.map": "/portfolio/static/css/main.50d1d01e.chunk.css.map",
     "static/media/Home.css": "/portfolio/static/media/1.2d871a40.jpg",
     "static/media/600px-Python-logo-notext.svg.png": "/portfolio/static/media/600px-Python-logo-notext.svg.cc791bec.png",
     "static/media/900px-JavaScript-logo.png": "/portfolio/static/media/900px-JavaScript-logo.11e8af26.png",
@@ -29,6 +29,7 @@
     "static/media/react-1.svg": "/portfolio/static/media/react-1.876a8325.svg",
     "static/media/todoapp.png": "/portfolio/static/media/todoapp.443587b3.png",
     "static/media/ts.png": "/portfolio/static/media/ts.26cc95f2.png",
+    "static/media/ubd계산기.png": "/portfolio/static/media/ubd계산기.95847880.png",
     "static/media/unity.png": "/portfolio/static/media/unity.948483a5.png"
   }
 }

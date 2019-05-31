@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57a53cc9e7df27c03b75ab021715e375",
+    "revision": "158471391c3b7b92d6886bf31ae85a65",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "4652e5b8f1c69ccb091b",
-    "url": "/portfolio/static/css/main.1bde1f01.chunk.css"
+    "revision": "631d60eff489c50ace7c",
+    "url": "/portfolio/static/css/main.50d1d01e.chunk.css"
   },
   {
-    "revision": "de479658a8300d2413f0",
-    "url": "/portfolio/static/js/2.1121c6e2.chunk.js"
+    "revision": "221e2edb5688a91a8a41",
+    "url": "/portfolio/static/js/2.64905c2c.chunk.js"
   },
   {
-    "revision": "4652e5b8f1c69ccb091b",
-    "url": "/portfolio/static/js/main.80737de4.chunk.js"
+    "revision": "631d60eff489c50ace7c",
+    "url": "/portfolio/static/js/main.5ec976dd.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26cc95f255ccb936d154b43614f61602",
     "url": "/portfolio/static/media/ts.26cc95f2.png"
+  },
+  {
+    "revision": "9584788024e91acb9e07491f69159233",
+    "url": "/portfolio/static/media/ubd계산기.95847880.png"
   },
   {
     "revision": "948483a59b4f56937328518c40854c06",
