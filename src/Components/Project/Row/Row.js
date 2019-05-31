@@ -71,7 +71,7 @@ const Row = () => (
       </ul>
       <ul className="Box_ul">
       <li className="Box_li">
-      <a href="https://github.com/s4ng/React_movie_app" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
+      <a href="https://github.com/s4ng/UBD_Calculator" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
        </li>
       </ul>
             </div>
