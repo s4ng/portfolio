@@ -31,7 +31,7 @@ const Skils = () => (
     <div className="Skill_image_container" style={{backgroundImage: `url(${CPP})`}}><div className="Skill_label">Basic</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${java})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${Javascript})`}}><div className="Skill_label">Intermediate</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Typescript})`}}><div className="Skill_label">Basic</div></div>
+    { /*<div className="Skill_image_container" style={{backgroundImage: `url(${Typescript})`}}><div className="Skill_label">Basic</div></div> */ }
     <div className="Skill_image_container" style={{backgroundImage: `url(${Python})`}}><div className="Skill_label">Basic</div></div>
      </div>
     </span>
@@ -40,7 +40,7 @@ const Skils = () => (
     <div className="Skill_image_container" style={{backgroundImage: `url(${html})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${css})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${Javascript})`}}><div className="Skill_label">Intermediate</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Typescript})`}}><div className="Skill_label">Basic</div></div>
+    { /*<div className="Skill_image_container" style={{backgroundImage: `url(${Typescript})`}}><div className="Skill_label">Basic</div></div> */ }
     
     </span>
     <h2 className="Skill_Title">FrameWork & Library</h2>
@@ -64,7 +64,7 @@ const Skils = () => (
     <h2 className="Skill_Title">Etc</h2>
     <span className="Skill_Content">
     <div className="Skill_image_container" style={{backgroundImage: `url(${github})`}}><div className="Skill_label">Intermediate</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Redux})`}}><div className="Skill_label">Basic</div></div>
+    { /*<div className="Skill_image_container" style={{backgroundImage: `url(${Redux})`}}><div className="Skill_label">Basic</div></div> */}
     <div className="Skill_image_container" style={{backgroundImage: `url(${unity})`}}><div className="Skill_label">Basic</div></div>
     </span>
     </div>
