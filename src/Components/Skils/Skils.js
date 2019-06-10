@@ -28,7 +28,7 @@ const Skils = () => (
     <span className="Skill_Content">
     <div className="SKill_box">
     <div className="Skill_image_container" style={{backgroundImage: `url(${CS})`}}><div className="Skill_label">Basic</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${CPP})`}}><div className="Skill_label">Basic</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${CPP})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${java})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${Javascript})`}}><div className="Skill_label">Intermediate</div></div>
     { /*<div className="Skill_image_container" style={{backgroundImage: `url(${Typescript})`}}><div className="Skill_label">Basic</div></div> */ }
