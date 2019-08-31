@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f63b594274d13032351ab68e4c2abb6",
+    "revision": "39b9d51bd2c44331f8fa748b1a13bddf",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c65c313042293015763a",
-    "url": "/portfolio/static/css/main.a91c0953.chunk.css"
+    "revision": "6da0924ef5af4b3e9fe2",
+    "url": "/portfolio/static/css/main.c20ab452.chunk.css"
   },
   {
-    "revision": "de479658a8300d2413f0",
-    "url": "/portfolio/static/js/2.1121c6e2.chunk.js"
+    "revision": "1cd9faff25cf19380928",
+    "url": "/portfolio/static/js/2.8a740f1e.chunk.js"
   },
   {
-    "revision": "c65c313042293015763a",
-    "url": "/portfolio/static/js/main.91c11e2c.chunk.js"
+    "revision": "6da0924ef5af4b3e9fe2",
+    "url": "/portfolio/static/js/main.ca7972bb.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -70,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "74e943d82452f81f6a0bb0b51ac6785d",
     "url": "/portfolio/static/media/java.74e943d8.png"
+  },
+  {
+    "revision": "c09f79825e2ffb26830ffd6825eaf771",
+    "url": "/portfolio/static/media/lolchess.c09f7982.png"
+  },
+  {
+    "revision": "294e0719b402bb58d37d57624f192086",
+    "url": "/portfolio/static/media/lottocap.294e0719.png"
   },
   {
     "revision": "475c5527b8e3b52faae69ec7c8ec468a",
